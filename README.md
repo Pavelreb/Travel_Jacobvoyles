@@ -1,4 +1,7 @@
 # Travel landing page jacobvoyles
+
+![This is an image](https://newestcoupon.com/wp-content/uploads/2021/05/Create-Your-First-Website-with-HTML-CSS-JavaScript.jpg)
+
 Обучающая верстка сайта с нуля с использованием графического редактора FIGMA, для написания кода использовался текстовый редактор Visual Studio Code макет свёрстан адаптивным и кросбраузерным.
 
 В вёрстке использовались технологии:
@@ -12,7 +15,7 @@
 - Компрессия изображений
 - Добавлены префиксы в .css файлы
 - Компрессия .html .css .js файлов
-- Проверка на кода на валидность
+- Проверка кода на валидность
 
 Ссылка на макет Figma: [Перейти](https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A1)
 
