@@ -1,6 +1,6 @@
 # Travel landing page jacobvoyles
 
-[>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/Freelanser_portfolio/)
+[>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/Travel_Jacobvoyles/)
 
 ![This is an image](https://newestcoupon.com/wp-content/uploads/2021/05/Create-Your-First-Website-with-HTML-CSS-JavaScript.jpg)
 
