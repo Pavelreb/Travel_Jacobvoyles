@@ -2,6 +2,8 @@
 
 [>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/Travel_Jacobvoyles/)
 
+![This is an image](https://github.com/Pavelreb/Travel_Jacobvoyles/blob/main/img/first-screen.jpg?raw=true)
+
 Обучающая верстка сайта с нуля с использованием графического редактора FIGMA, для написания кода использовался текстовый редактор Visual Studio Code макет свёрстан адаптивным и кросбраузерным.
 
 В вёрстке использовались технологии:
