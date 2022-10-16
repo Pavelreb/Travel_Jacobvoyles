@@ -1,7 +1,7 @@
 # Travel jacobvoyles
 ## Landing page
 
-[>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/Travel_Jacobvoyles/)
+[>>> Просмотр страницы Travel jacobvoyles <<<](https://pavelreb.github.io/Travel_Jacobvoyles/)
 
 ![This is an image](https://github.com/Pavelreb/Travel_Jacobvoyles/blob/main/img/first-screen.jpg?raw=true)
 
